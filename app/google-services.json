@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622097720779",
+    "project_id": "app-happy-4021f",
+    "storage_bucket": "app-happy-4021f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622097720779:android:fac92b3d0676025baa024e",
+        "android_client_info": {
+          "package_name": "com.example.app_happy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622097720779-20lo5iebsca3upcl4lp2e9dq79fcgpfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8y6KcTH42J-7FvMQxnk5eLR5gg-dZNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622097720779-20lo5iebsca3upcl4lp2e9dq79fcgpfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
